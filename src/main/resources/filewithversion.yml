@@ -1,0 +1,3 @@
+version: ${build.version}
+name: some name here
+author: wea_ondara
